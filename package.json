@@ -14,7 +14,7 @@
     "dependencies": {
         "azure": ">=0.6.0",
         "express": "4.1.2",
-        "express-session": "1.0.4"
+        "express-session": ">=1.0.4"
     },
     "keywords": [
         "azure", "express", "session"
